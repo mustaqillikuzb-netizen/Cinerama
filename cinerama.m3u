@@ -831,3 +831,106 @@ http://stream0.tv41.ru/live.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru@SD" tvg-logo="https://i.imgur.com/561FRwI.png" group-title="Undefined",Югра (1080p)
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,SEX PRIVE
+http://45.190.28.50/SEX_PRIVE/playlist.m3u8
+#EXTINF:-1,Brazzers TV
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1,Barely Legal
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+#EXTINF:-1,RusskayaNoch
+http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1,Passion_XXX
+http://89.33.29.115:8080/Passion_XXX/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Erox
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+http://stream.mcquack.net/290/index.m3u8
+#EXTINF:-1,Brazzers TV Europa
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1,BRAZZERS
+http://193.239.187.102/BRAZZERS/index.m3u8
+#EXTINF:-1,Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1,penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1,RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1,Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1,Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1,Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1,Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1,Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1,Reality Kings TV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1,Digital Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1,Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1,Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1,Babes TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Gags Network
+http://ott.watch/stream/DTCEUBKDH5/458.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
+http://ott.watch/stream/DTCEUBKDH5/55.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
+http://ott.watch/stream/DTCEUBKDH5/57.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+http://ott.watch/stream/DTCEUBKDH5/54.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Erox
+http://ott.watch/stream/DTCEUBKDH5/58.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Redlight
+http://ott.watch/stream/DTCEUBKDH5/51.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Hustler Europe
+http://ott.watch/stream/DTCEUBKDH5/52.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Brazzers TV Europe
+http://ott.watch/stream/DTCEUBKDH5/53.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+http://ott.watch/stream/DTCEUBKDH5/280.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Private TV
+http://ott.watch/stream/DTCEUBKDH5/282.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
+http://ott.watch/stream/DTCEUBKDH5/284.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+http://ott.watch/stream/DTCEUBKDH5/289.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+http://ott.watch/stream/DTCEUBKDH5/290.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExEx
+http://ott.watch/stream/DTCEUBKDH5/56.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Cineman ExExExTWO
+http://ott.watch/stream/DTCEUBKDH5/59.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Red Lips
+http://ott.watch/stream/DTCEUBKDH5/61.m3u8
+#EXTINF:-1 group-title="Для взрослых" parent-code="1234"tvg-rec="7" timeshift="7",Penthouse Gold
+http://ott.watch/stream/DTCEUBKDH5/66.m3u8
